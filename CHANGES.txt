@@ -11,4 +11,6 @@ facilitar quando incluir uma nova revisão/versão.
   - Autor: Eden Denis F. da S. L. Santos
 
 **Revisão 1** - 31/07/2025
-- Atualização do README para instalação e uso do `catfish`.
+- Atualização do README para instalação e uso do `drawing`.
+**Revisão 2** - 07/08/2025
+- Revisão do README com instruções atualizadas e referências ao `drawing`.
